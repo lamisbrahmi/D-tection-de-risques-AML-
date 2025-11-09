@@ -11,5 +11,5 @@ Ce projet vise à développer un système capable de **détecter automatiquement
 - Des **modèles d’apprentissage automatique** pour évaluer rapidement le risque associé à chaque personne ou entité.
 - L’**orchestration avec n8n** pour automatiser le flux de données, depuis la collecte jusqu’à la génération d’alertes.
 - Une **interface structurée** pour centraliser les résultats et faciliter la prise de décision.
-
+**Note :** Les données utilisées dans ce projet (fichiers Excel) sont **confidentielles** et ne sont pas incluses dans ce dépôt pour des raisons de sécurité et de confidentialité.
 
